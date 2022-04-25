@@ -1,0 +1,9 @@
+Title: Services and Attributes in SAML Metadata
+DocumentID: https://skolfederation.se/sasm
+Version: V1.0.0
+Pages: 5
+Status: Final
+License: Creative Commons BY-SA 3.0
+Logo: logo
+Author: Stefan Halén
+Abstract: This document describes how to declare services and attributes in SAML V2.0 metadata for the federations of The Swedish Internet Foundation.
